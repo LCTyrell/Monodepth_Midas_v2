@@ -20,7 +20,7 @@ Documentation [here]()
 } 
 ```
 #### Model convertion:
-Thanks to Katsuya Hyodo ( [https://github.com/PINTO0309](https://github.com/PINTO0309) )
+Thanks to Katsuya Hyodo: [https://github.com/PINTO0309](https://github.com/PINTO0309).
 
 
 ## Licence
