@@ -7,7 +7,7 @@ Documentation [here]()
 ## DepthAI version
 Documentation [here]()
 
-## Citation
+## Credits
 
 #### Midas model:  
   
