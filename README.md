@@ -7,7 +7,7 @@ Monocular depth estimation using Midas v2.1 model running on Openvino (including
 Documentation [here](Openvino)
 
 ## DepthAI version
-Documentation [here]()
+...
 
 ## Credits
 
