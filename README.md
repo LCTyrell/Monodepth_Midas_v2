@@ -3,11 +3,8 @@ Monocular depth estimation (Midas v2.1) running on Openvino (including NCS2) and
   
 ![midas](utils/midas2.gif)
 
-## Openvino version
-Documentation [here](Openvino)
-
-## DepthAI version
-...
+## Documentation
+[Installation & usage](Openvino)
 
 ## Credits
 
