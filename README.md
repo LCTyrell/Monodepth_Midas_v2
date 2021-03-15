@@ -1,5 +1,5 @@
 # Monodepth Midas v2.1
-Monocular depth estimation (Midas v2.1) running on Openvino (including NCS2) and DepthAI.  
+Monocular depth estimation (Midas v2.1) running on Openvino (including NCS2/MyriadX).  
   
 ![midas](utils/midas2.gif)
 
